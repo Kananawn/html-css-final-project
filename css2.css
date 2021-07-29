@@ -1,0 +1,24 @@
+div{
+
+color: rgb(253, 250, 250);
+font-size: 30px;
+position: absolute;
+width: 300px;
+height: 100px;
+}
+.one{
+background-color: lawngreen;
+top: 30px;
+left: 30px;
+z-index: 100;
+}
+.two{
+background-color: lightcoral;
+top: 15px;
+left: 15px;
+}
+.three{
+    background-color: maroon;
+     
+}
+
